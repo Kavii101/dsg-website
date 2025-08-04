@@ -2,7 +2,7 @@
   "name": "Diaspora Solidarity Group",
   "short_name": "DSG",
   "description": "Community-led action for climate migrants, feminist solidarity, youth empowerment, migrant justice, and decolonial education.",
-  "start_url": "/",
+  "start_url": "/dsg-website/",
   "display": "standalone",
   "background_color": "#0099CC",
   "theme_color": "#0099CC",

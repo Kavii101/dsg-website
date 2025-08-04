@@ -2,6 +2,8 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   output: 'export',
+  basePath: '/dsg-website',
+  assetPrefix: '/dsg-website',
   trailingSlash: true,
   skipTrailingSlashRedirect: true,
   eslint: {
