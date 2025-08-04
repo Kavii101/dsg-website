@@ -1,0 +1,246 @@
+{
+  "climate-justice": {
+    "hero": {
+      "title": "Climate Justice & Climate Migrants",
+      "subtitle": "Centering the voices of climate migrants in building just futures",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "background_image": "climate-justice-hero.jpg",
+      "badge": "Our Work"
+    },
+    "overview": {
+      "title": "Building Climate Resilience Through Community Leadership",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "image": "climate-overview.jpg"
+    },
+    "key_initiatives": [
+      {
+        "title": "Climate Migration Support Network",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "status": "Ongoing",
+        "image": "climate-initiative-1.jpg"
+      },
+      {
+        "title": "Community Adaptation Planning",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "status": "Expanding",
+        "image": "climate-initiative-2.jpg"
+      },
+      {
+        "title": "Climate Justice Advocacy",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "status": "Active",
+        "image": "climate-initiative-3.jpg"
+      }
+    ],
+    "impact_stories": [
+      {
+        "quote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. DSG helped our community develop adaptation strategies that center our needs and knowledge.",
+        "author": "Community Leader",
+        "location": "Coastal Region",
+        "image": "story-1.jpg"
+      },
+      {
+        "quote": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. The support network gave us hope and practical resources.",
+        "author": "Climate Migrant Advocate",
+        "location": "Urban Center",
+        "image": "story-2.jpg"
+      }
+    ]
+  },
+  
+  "feminist-solidarity": {
+    "hero": {
+      "title": "Women's Rights & Feminist Solidarity",
+      "subtitle": "Centering women's leadership and community care in transforming systems",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "background_image": "feminist-hero.jpg",
+      "badge": "Our Work"
+    },
+    "overview": {
+      "title": "Building Feminist Futures Through Collective Power",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "image": "feminist-overview.jpg"
+    },
+    "key_initiatives": [
+      {
+        "title": "Women's Leadership Development",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "status": "2025 Launch",
+        "image": "feminist-initiative-1.jpg"
+      },
+      {
+        "title": "Community Care Networks",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "status": "Ongoing",
+        "image": "feminist-initiative-2.jpg"
+      },
+      {
+        "title": "Gender Justice Advocacy",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "status": "Active",
+        "image": "feminist-initiative-3.jpg"
+      }
+    ],
+    "impact_stories": [
+      {
+        "quote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. I found strength in a circle of women who saw me and gave me tools to lead.",
+        "author": "Women's Group Leader",
+        "location": "Community Center",
+        "image": "story-3.jpg"
+      },
+      {
+        "quote": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Together we're building initiatives that won't wait for permission.",
+        "author": "Feminist Organizer",
+        "location": "Regional Network",
+        "image": "story-4.jpg"
+      }
+    ]
+  },
+  
+  "youth-empowerment": {
+    "hero": {
+      "title": "Youth Empowerment",
+      "subtitle": "Training, exchanges, and storytelling led by young people shaping movements",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "background_image": "youth-hero.jpg",
+      "badge": "Our Work"
+    },
+    "overview": {
+      "title": "Amplifying Youth Voices for Lasting Change",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "image": "youth-overview.jpg"
+    },
+    "key_initiatives": [
+      {
+        "title": "Youth Leadership Training",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "status": "Ongoing",
+        "image": "youth-initiative-1.jpg"
+      },
+      {
+        "title": "International Youth Exchanges",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "status": "Expanding",
+        "image": "youth-initiative-2.jpg"
+      },
+      {
+        "title": "Youth Storytelling Platform",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "status": "Active",
+        "image": "youth-initiative-3.jpg"
+      }
+    ],
+    "impact_stories": [
+      {
+        "quote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. DSG told us to act. Now our stories guide policy conversations across borders.",
+        "author": "Youth Leader",
+        "location": "International Program",
+        "image": "story-5.jpg"
+      },
+      {
+        "quote": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. The training gave me confidence to lead campaigns in my community.",
+        "author": "Student Organizer",
+        "location": "Local Chapter",
+        "image": "story-6.jpg"
+      }
+    ]
+  },
+  
+  "migrant-justice": {
+    "hero": {
+      "title": "Migrant Justice & Anti-Racism",
+      "subtitle": "Grassroots advocacy, legal support, and anti-racist education for dignity",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "background_image": "migrant-hero.jpg",
+      "badge": "Our Work"
+    },
+    "overview": {
+      "title": "Standing With Migrants Through Justice and Solidarity",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "image": "migrant-overview.jpg"
+    },
+    "key_initiatives": [
+      {
+        "title": "Legal Support Network",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "status": "Ongoing",
+        "image": "migrant-initiative-1.jpg"
+      },
+      {
+        "title": "Anti-Racism Education",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "status": "Active",
+        "image": "migrant-initiative-2.jpg"
+      },
+      {
+        "title": "Policy Advocacy",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "status": "Expanding",
+        "image": "migrant-initiative-3.jpg"
+      }
+    ],
+    "impact_stories": [
+      {
+        "quote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Legal support gave me clarity; community solidarity gave me courage.",
+        "author": "Community Member",
+        "location": "Support Network",
+        "image": "story-7.jpg"
+      },
+      {
+        "quote": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. DSG helped turn a moment of fear into collective resistance.",
+        "author": "Migrant Rights Advocate",
+        "location": "Regional Coalition",
+        "image": "story-8.jpg"
+      }
+    ]
+  },
+  
+  "decolonial-education": {
+    "hero": {
+      "title": "Intersectionality & Decolonial Education",
+      "subtitle": "Workshops and resources that challenge power and elevate marginalized knowledge",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "background_image": "decolonial-hero.jpg",
+      "badge": "Our Work"
+    },
+    "overview": {
+      "title": "Unlearning, Relearning, Building Together",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "image": "decolonial-overview.jpg"
+    },
+    "key_initiatives": [
+      {
+        "title": "Decolonial Workshops",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "status": "Ongoing",
+        "image": "decolonial-initiative-1.jpg"
+      },
+      {
+        "title": "Resource Development",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "status": "Active",
+        "image": "decolonial-initiative-2.jpg"
+      },
+      {
+        "title": "Community Education",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "status": "Expanding",
+        "image": "decolonial-initiative-3.jpg"
+      }
+    ],
+    "impact_stories": [
+      {
+        "quote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. I thought I knew history—then I learned whose stories were missing.",
+        "author": "Workshop Participant",
+        "location": "Education Series",
+        "image": "story-9.jpg"
+      },
+      {
+        "quote": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. DSG's workshops helped me unlearn assumptions and reimagine shared futures.",
+        "author": "Community Educator",
+        "location": "Learning Circle",
+        "image": "story-10.jpg"
+      }
+    ]
+  }
+}

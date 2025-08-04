@@ -1,0 +1,59 @@
+{
+  "hero_slides": [
+    {
+      "id": 1,
+      "title": "Climate Justice & Climate Migrants",
+      "headline": "Climate Displacement Isn't Inevitable—We Build Just Futures",
+      "subtext": "Centering the voices of climate migrants, DSG drives community-led adaptation and resilience work. Stand with those on the frontlines of environmental change.",
+      "button_text": "Learn More",
+      "button_link": "/work/climate-justice",
+      "badge": "Ongoing Initiative",
+      "story": "When the sea rose, we didn't wait for permission—our community designed its own shelter. DSG helped amplify our voice so others could see that climate migrants are leaders, not victims.",
+      "image": "hero-climate.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Women's Rights & Feminist Solidarity",
+      "headline": "Centering Women, Centering Justice",
+      "subtext": "Our feminist solidarity work weaves protection, leadership, and community care to transform systems—new initiatives launching in 2025. Join the collective.",
+      "button_text": "Get Involved",
+      "button_link": "/work/feminist-solidarity",
+      "badge": "Coming 2025",
+      "story": "I found strength in a circle of women who saw me, protected me, and gave me tools to lead. Together we're building initiatives that won't wait for permission.",
+      "image": "hero-women.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Youth Empowerment",
+      "headline": "Youth Voices, Lasting Change",
+      "subtext": "Training, exchanges, and storytelling led by young people shaping resilient, inclusive movements. Amplify your voice with DSG.",
+      "button_text": "Share Your Story",
+      "button_link": "/work/youth-empowerment",
+      "badge": "Youth-Led",
+      "story": "They told us to be patient—DSG told us to act. Now our stories guide training, policy conversations, and youth-led campaigns across borders.",
+      "image": "hero-youth.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Migrant Justice & Anti-Racism",
+      "headline": "Justice Without Borders: Stand With Migrants",
+      "subtext": "DSG combines grassroots advocacy, legal support, and anti-racist education to confront exclusion and uphold dignity.",
+      "button_text": "Take Action",
+      "button_link": "/work/migrant-justice",
+      "badge": "Rights & Advocacy",
+      "story": "Legal support gave me clarity; community solidarity gave me courage. DSG helped turn a moment of fear into collective resistance.",
+      "image": "hero-migrant.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Intersectionality & Decolonial Education",
+      "headline": "Unlearn, Relearn, Together",
+      "subtext": "Workshops and resources that challenge entrenched power, elevate marginalized knowledge, and build collective understanding across identities.",
+      "button_text": "Discover Resources",
+      "button_link": "/work/decolonial-education",
+      "badge": "Learn & Share",
+      "story": "I thought I knew history—then I learned whose stories were missing. DSG's workshops helped me unlearn assumptions and reimagine shared futures.",
+      "image": "hero-decolonial.jpg"
+    }
+  ]
+}

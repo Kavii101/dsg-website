@@ -1,0 +1,122 @@
+{
+  "hero_section": {
+    "title": "About Diaspora Solidarity Group",
+    "subtitle": "Building bridges across borders through community-led action",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+    "background_image": "about-hero.jpg"
+  },
+  
+  "mission_section": {
+    "title": "Our Mission",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "image": "mission-image.jpg"
+  },
+  
+  "vision_section": {
+    "title": "Our Vision",
+    "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+    "image": "vision-image.jpg"
+  },
+  
+  "values_section": {
+    "title": "Our Values",
+    "values": [
+      {
+        "title": "Community-Led Action",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "icon": "users"
+      },
+      {
+        "title": "Intersectional Justice",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "icon": "heart"
+      },
+      {
+        "title": "Solidarity Across Borders",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "icon": "globe"
+      },
+      {
+        "title": "Youth Empowerment",
+        "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "icon": "star"
+      }
+    ]
+  },
+  
+  "story_section": {
+    "title": "Our Story",
+    "content": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus.",
+    "timeline": [
+      {
+        "year": "2020",
+        "title": "Foundation",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      {
+        "year": "2021", 
+        "title": "First Major Campaign",
+        "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "year": "2022",
+        "title": "International Expansion", 
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco."
+      },
+      {
+        "year": "2023",
+        "title": "Community Partnerships",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit."
+      },
+      {
+        "year": "2024",
+        "title": "Current Focus",
+        "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa."
+      }
+    ]
+  },
+  
+  "team_section": {
+    "title": "Our Team",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "team_members": [
+      {
+        "name": "Lorem Ipsum",
+        "role": "Executive Director",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore.",
+        "image": "team-member-1.jpg"
+      },
+      {
+        "name": "Dolor Sit",
+        "role": "Program Manager",
+        "bio": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.",
+        "image": "team-member-2.jpg"
+      },
+      {
+        "name": "Consectetur Amet",
+        "role": "Community Organizer",
+        "bio": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla.",
+        "image": "team-member-3.jpg"
+      },
+      {
+        "name": "Adipiscing Elite",
+        "role": "Communications Director",
+        "bio": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.",
+        "image": "team-member-4.jpg"
+      }
+    ]
+  },
+  
+  "call_to_action": {
+    "title": "Join Our Movement",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "primary_button": {
+      "text": "Get Involved",
+      "link": "/get-involved"
+    },
+    "secondary_button": {
+      "text": "Learn About Our Work",
+      "link": "/work"
+    }
+  }
+}

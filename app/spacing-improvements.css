@@ -1,0 +1,297 @@
+/* Spacing Improvements */
+
+/* Navigation Improvements */
+.navigation-container {
+  padding: 1.5rem 0;
+}
+
+@media (min-width: 1024px) {
+  .navigation-container {
+    padding: 2rem 0;
+  }
+}
+
+/* Logo and Brand Spacing */
+.logo-container {
+  gap: 1rem;
+}
+
+@media (min-width: 640px) {
+  .logo-container {
+    gap: 1.25rem;
+  }
+}
+
+/* Navigation Menu Spacing */
+.nav-menu {
+  gap: 3rem;
+}
+
+.nav-menu a {
+  padding: 0.75rem 0.5rem;
+  position: relative;
+}
+
+/* CTA Button Spacing */
+.cta-buttons {
+  gap: 1.5rem;
+}
+
+/* Hero Section Spacing */
+.hero-content {
+  padding: 0 2rem;
+}
+
+@media (min-width: 640px) {
+  .hero-content {
+    padding: 0 3rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .hero-content {
+    padding: 0 4rem;
+  }
+}
+
+/* Hero Badge Spacing */
+.hero-badge {
+  margin-bottom: 2.5rem;
+  padding: 1rem 2rem;
+  font-size: 1.125rem;
+}
+
+@media (min-width: 768px) {
+  .hero-badge {
+    margin-bottom: 3rem;
+    padding: 1.25rem 2.5rem;
+    font-size: 1.25rem;
+  }
+}
+
+/* Hero Headline Spacing */
+.hero-headline {
+  margin-bottom: 3rem;
+  line-height: 1.1;
+  letter-spacing: -0.025em;
+}
+
+@media (min-width: 768px) {
+  .hero-headline {
+    margin-bottom: 3.5rem;
+    letter-spacing: -0.05em;
+  }
+}
+
+@media (min-width: 1024px) {
+  .hero-headline {
+    margin-bottom: 4rem;
+  }
+}
+
+/* Hero Subtext Spacing */
+.hero-subtext {
+  margin-bottom: 3rem;
+  line-height: 1.6;
+}
+
+@media (min-width: 768px) {
+  .hero-subtext {
+    margin-bottom: 3.5rem;
+    line-height: 1.7;
+  }
+}
+
+/* Content Section Spacing */
+.content-section {
+  padding: 5rem 0;
+}
+
+@media (min-width: 768px) {
+  .content-section {
+    padding: 6rem 0;
+  }
+}
+
+@media (min-width: 1024px) {
+  .content-section {
+    padding: 8rem 0;
+  }
+}
+
+/* Card Grid Spacing */
+.card-grid {
+  gap: 2.5rem;
+}
+
+@media (min-width: 768px) {
+  .card-grid {
+    gap: 3rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .card-grid {
+    gap: 3.5rem;
+  }
+}
+
+/* Individual Card Spacing */
+.card-content {
+  padding: 2.5rem;
+}
+
+@media (min-width: 768px) {
+  .card-content {
+    padding: 3rem;
+  }
+}
+
+/* Better touch targets for mobile */
+@media (max-width: 768px) {
+  .touch-target {
+    min-height: 48px;
+    min-width: 48px;
+    padding: 12px 16px;
+  }
+
+  .nav-link-mobile {
+    padding: 1rem 1.5rem;
+    margin: 0.5rem 0;
+  }
+
+  .button-mobile {
+    padding: 1rem 2rem;
+    font-size: 1.125rem;
+  }
+}
+
+/* Improved text spacing */
+.text-content h2 {
+  margin-bottom: 2rem;
+}
+
+.text-content h3 {
+  margin-bottom: 1.5rem;
+}
+
+.text-content p {
+  margin-bottom: 1.5rem;
+  line-height: 1.7;
+}
+
+.text-content ul, .text-content ol {
+  margin-bottom: 2rem;
+  padding-left: 1.5rem;
+}
+
+.text-content li {
+  margin-bottom: 0.75rem;
+}
+
+/* Better spacing for small screens */
+@media (max-width: 640px) {
+  .container-mobile {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+
+  .hero-content-mobile {
+    padding: 0 1.5rem;
+  }
+
+  .section-mobile {
+    padding: 3rem 0;
+  }
+
+  .card-mobile {
+    padding: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  .text-mobile h1 {
+    font-size: 2.5rem;
+    line-height: 1.2;
+    margin-bottom: 2rem;
+  }
+
+  .text-mobile h2 {
+    font-size: 2rem;
+    line-height: 1.3;
+    margin-bottom: 1.5rem;
+  }
+
+  .text-mobile p {
+    font-size: 1.125rem;
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+  }
+}
+
+/* Improved focus states with better spacing */
+*:focus {
+  outline: 2px solid #0099CC;
+  outline-offset: 4px;
+}
+
+button:focus,
+a:focus {
+  outline-offset: 2px;
+}
+
+/* Better spacing for form elements */
+input, textarea, select {
+  padding: 1rem 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Improved button spacing */
+.button-group {
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.button-group button,
+.button-group a {
+  padding: 1rem 2.5rem;
+  font-size: 1.125rem;
+  font-weight: 600;
+}
+
+/* Timeline spacing improvements */
+.timeline-item {
+  margin-bottom: 3rem;
+  padding-left: 3rem;
+}
+
+.timeline-content {
+  padding: 2rem;
+  margin-left: 1rem;
+}
+
+/* Quote spacing */
+blockquote {
+  padding: 2rem 2.5rem;
+  margin: 2.5rem 0;
+  border-left: 4px solid;
+  background: rgba(0, 0, 0, 0.05);
+}
+
+/* Better table spacing */
+table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 2rem 0;
+}
+
+th, td {
+  padding: 1rem 1.5rem;
+  text-align: left;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+th {
+  background: #f9fafb;
+  font-weight: 600;
+}

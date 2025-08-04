@@ -1,0 +1,30 @@
+{
+  "site_info": {
+    "name": "Diaspora Solidarity Group",
+    "short_name": "DSG",
+    "tagline": "Building Solidarity Across Borders",
+    "description": "Community-led action for climate migrants, feminist solidarity, youth empowerment, migrant justice, and decolonial education.",
+    "email": "info@diasporasolidarity.org",
+    "website": "https://diasporasolidarity.org"
+  },
+  
+  "social_media": {
+    "instagram": "https://www.instagram.com/diasporasolidarity",
+    "facebook": "https://www.facebook.com/diasporasolidarity",
+    "linkedin": "https://www.linkedin.com/company/diasporasolidarity",
+    "twitter": "https://twitter.com/diasporasolidarity"
+  },
+  
+  "brand_colors": {
+    "primary_blue": "#0099CC",
+    "primary_pink": "#E91E63",
+    "neutral_white": "#FFFFFF",
+    "neutral_black": "#1A1A1A",
+    "neutral_gray": "#6B7280"
+  },
+  
+  "images": {
+    "logo": "/images/dsg-logo.png",
+    "hero_images_folder": "/images/hero/"
+  }
+}

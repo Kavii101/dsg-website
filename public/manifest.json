@@ -1,0 +1,73 @@
+{
+  "name": "Diaspora Solidarity Group",
+  "short_name": "DSG",
+  "description": "Community-led action for climate migrants, feminist solidarity, youth empowerment, migrant justice, and decolonial education.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0099CC",
+  "theme_color": "#0099CC",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/android-chrome-512x512.png", 
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["social", "education", "news"],
+  "lang": "en",
+  "dir": "ltr",
+  "screenshots": [
+    {
+      "src": "/screenshot-mobile.png",
+      "sizes": "390x844",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/screenshot-desktop.png", 
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "About DSG",
+      "short_name": "About",
+      "description": "Learn about our mission and values",
+      "url": "/about",
+      "icons": [
+        {
+          "src": "/shortcut-about.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Our Work",
+      "short_name": "Work",
+      "description": "Explore our five pillars of action",
+      "url": "/work",
+      "icons": [
+        {
+          "src": "/shortcut-work.png",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ]
+}

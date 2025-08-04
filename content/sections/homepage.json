@@ -1,0 +1,78 @@
+{
+  "mission_section": {
+    "title": "Building Solidarity Across Borders",
+    "description": "Community-led action for climate migrants, feminist solidarity, youth empowerment, migrant justice, and decolonial education. Through grassroots action and collective care, we're creating a world where everyone belongs."
+  },
+  
+  "featured_campaign": {
+    "badge": "Current Focus",
+    "title": "2025: Year of Feminist Futures",
+    "description": "Join us as we launch groundbreaking initiatives centering women's leadership and community care. Together, we're transforming systems and building collective power.",
+    "button_text": "Learn About Our 2025 Initiatives",
+    "button_link": "/work/feminist-solidarity"
+  },
+  
+  "impact_metrics": {
+    "title": "Our Impact",
+    "metrics": [
+      {
+        "number": "250+",
+        "label": "Community voices amplified",
+        "icon": "megaphone"
+      },
+      {
+        "number": "40+",
+        "label": "International partners",
+        "icon": "globe"
+      },
+      {
+        "number": "500+",
+        "label": "Youth trained",
+        "icon": "users"
+      },
+      {
+        "number": "15",
+        "label": "Toolkits published",
+        "icon": "book"
+      }
+    ]
+  },
+  
+  "our_work": {
+    "title": "Our Work",
+    "description": "Explore our five core pillars of action, each driven by community needs and collective wisdom."
+  },
+  
+  "call_to_action": {
+    "sections": [
+      {
+        "icon": "heart",
+        "title": "Join the Movement",
+        "description": "Be part of our collective working for justice and solidarity.",
+        "button_text": "Join Us",
+        "button_link": "/get-involved/join"
+      },
+      {
+        "icon": "users",
+        "title": "Support Our Work",
+        "description": "Your contribution powers community-led change worldwide.",
+        "button_text": "Donate",
+        "button_link": "/get-involved/support"
+      },
+      {
+        "icon": "megaphone",
+        "title": "Share Your Voice",
+        "description": "Your story matters. Share it with our global community.",
+        "button_text": "Share Story",
+        "button_link": "/share-your-voice"
+      }
+    ]
+  },
+  
+  "newsletter": {
+    "title": "Stay Connected",
+    "description": "Get updates on our work, upcoming events, and opportunities to take action.",
+    "button_text": "Subscribe",
+    "placeholder": "Enter your email"
+  }
+}

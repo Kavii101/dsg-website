@@ -1,0 +1,45 @@
+{
+  "main_navigation": [
+    {
+      "label": "About",
+      "link": "/about"
+    },
+    {
+      "label": "Our Work", 
+      "link": "/work"
+    },
+    {
+      "label": "Projects & Events",
+      "link": "/projects"
+    },
+    {
+      "label": "Resources",
+      "link": "/resources"
+    },
+    {
+      "label": "Get Involved",
+      "link": "/get-involved"
+    },
+    {
+      "label": "Share Your Voice",
+      "link": "/share-your-voice"
+    },
+    {
+      "label": "Contact",
+      "link": "/contact"
+    }
+  ],
+  
+  "cta_buttons": [
+    {
+      "type": "secondary",
+      "label": "Join",
+      "link": "/get-involved/join"
+    },
+    {
+      "type": "primary", 
+      "label": "Support",
+      "link": "/get-involved/support"
+    }
+  ]
+}
